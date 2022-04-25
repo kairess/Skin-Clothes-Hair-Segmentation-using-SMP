@@ -1,3 +1,11 @@
+![](XX.image/result.png)
+
+```
+python main.py
+```
+
+---
+
 [Japanese/[English](https://github.com/Kazuhito00/Skin-Clothes-Hair-Segmentation-using-SMP/blob/main/README_EN.md)]
 
 # ⚠Attention⚠
